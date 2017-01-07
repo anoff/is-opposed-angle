@@ -1,0 +1,45 @@
+{
+  "name": "is-opposed-angle",
+  "version": "0.1.0",
+  "description": "angle comparison",
+  "license": "MIT",
+  "repository": "anoff/is-opposed-angle",
+  "author": {
+    "name": "anoff",
+    "email": "offenhaeuser@gmail.com",
+    "url": "anoff.io"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && nyc ava",
+    "test:watch": "ava --watch",
+    "test:coverage": "nyc ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    ""
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "coveralls": "^2.11.15",
+    "cz-conventional-kawaii": "^0.1.0",
+    "nyc": "^10.0.0",
+    "xo": "^0.17.0"
+  },
+  "xo": {
+    "esnext": true
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-kawaii"
+    },
+    "cz-conventional-kawaii": {
+      "quick": true
+    }
+  }
+}
