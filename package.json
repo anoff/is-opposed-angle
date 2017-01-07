@@ -1,13 +1,13 @@
 {
   "name": "is-opposed-angle",
   "version": "1.0.0",
-  "description": "angle comparison",
+  "description": "check if two angles are in opposite direction",
   "license": "MIT",
   "repository": "anoff/is-opposed-angle",
   "author": {
     "name": "anoff",
     "email": "offenhaeuser@gmail.com",
-    "url": "anoff.io"
+    "url": "http://anoff.io"
   },
   "engines": {
     "node": ">=4"
@@ -21,7 +21,11 @@
     "index.js"
   ],
   "keywords": [
-    ""
+    "geometry",
+    "angle",
+    "opposite",
+    "opposed",
+    "calculation"
   ],
   "dependencies": {},
   "devDependencies": {
@@ -33,6 +37,12 @@
   },
   "xo": {
     "esnext": true
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ]
   },
   "config": {
     "commitizen": {
