@@ -1,4 +1,6 @@
 # is-opposed-angle
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/anoff/is-opposed-angle.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/anoff/is-opposed-angle.svg?branch=master)](https://travis-ci.org/anoff/is-opposed-angle)
 [![Coverage Status](https://coveralls.io/repos/github/anoff/is-opposed-angle/badge.svg?branch=master)](https://coveralls.io/github/anoff/is-opposed-angle?branch=master)
 
