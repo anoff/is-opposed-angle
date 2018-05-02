@@ -1,6 +1,6 @@
 {
   "name": "is-opposed-angle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check if two angles are in opposite direction",
   "license": "MIT",
   "repository": "anoff/is-opposed-angle",
