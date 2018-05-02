@@ -13,7 +13,7 @@
     "node": ">=4"
   },
   "scripts": {
-    "test": "xo && nyc ava",
+    "test": "standard && nyc ava",
     "test:watch": "ava --watch",
     "test:coverage": "nyc ava"
   },
@@ -30,7 +30,7 @@
   "dependencies": {},
   "devDependencies": {
     "ava": "^0.25.0",
-    "coveralls": "^2.11.15",
+    "coveralls": "^3.0.1",
     "cz-conventional-kawaii": "^1.0.0",
     "nyc": "^11.0.0",
     "standard": "^11.0.1"

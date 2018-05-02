@@ -1,5 +1,5 @@
 import test from 'ava'
-import fn from './'
+import fn from '.'
 
 test('one pi difference in radian format should be opposite', t => {
   t.true(fn(0, Math.PI))
