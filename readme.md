@@ -1,8 +1,12 @@
 # is-opposed-angle
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/anoff/is-opposed-angle.svg)](https://greenkeeper.io/)
+[![npm version](https://img.shields.io/npm/v/is-opposed-angle.svg)](https://www.npmjs.com/package/is-opposed-angle)
 [![Build Status](https://travis-ci.org/anoff/is-opposed-angle.svg?branch=master)](https://travis-ci.org/anoff/is-opposed-angle)
 [![Coverage Status](https://coveralls.io/repos/github/anoff/is-opposed-angle/badge.svg?branch=master)](https://coveralls.io/github/anoff/is-opposed-angle?branch=master)
+[![Greenkeeper badge](https://badges.greenkeeper.io/anoff/is-opposed-angle.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/npm/is-opposed-angle/badge.svg)](https://snyk.io/test/npm/is-opposed-angle)
+[![Outdated dependencies](https://david-dm.org/anoff/is-opposed-angle.svg)](https://david-dm.org/anoff/is-opposed-angle)
+
 
 > check if two angles are in opposite direction
 
