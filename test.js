@@ -26,7 +26,7 @@ test('default tolerance should be <= 0.1', t => {
 })
 
 test('calculation in degree should work', t => {
-  const opts = {isDegree: true}
+  const opts = { isDegree: true }
   t.true(fn(0, 5 * 180, opts))
   t.true(fn(13 * 180, 2 * 180, opts))
   t.true(fn(-2 * 180, 5 * 180, opts))
